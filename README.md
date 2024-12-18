@@ -1,1 +1,1 @@
-# Spring_Ollama_Exemple
+# Ollama project in Java
